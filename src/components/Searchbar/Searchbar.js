@@ -1,4 +1,4 @@
-import { useState, useEffect } from 'react';
+import { useState } from 'react';
 import css from '../Searchbar/Searchbar.module.css';
 import { BsSearch } from 'react-icons/bs';
 
